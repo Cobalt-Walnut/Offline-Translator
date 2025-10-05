@@ -1,1 +1,5 @@
-hk:)
+For one case, you need one of the following:
+  Translator Case - Bottom V2.stl
+  Translator Case - Cover V5.stl
+  Translator Case - Top V6.stl
+And you need two of the Switch Mount - Half V5.stl
