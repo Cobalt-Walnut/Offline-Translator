@@ -1,8 +1,7 @@
 # EchoLingo
+A completely **offline and self-sustaining** translator running on a Raspberry Pi 5 using <ins>VOSK, Piper, and CTranslate2<ins>
 
-![EchoLingo V3](IMG_1560.jpeg)
-
-A completely **offline** translator running on a Raspberry Pi 5 using <ins>VOSK, Piper, and CTranslate2<ins>
+<img src="IMG_1560.jpeg" alt="EchoLingo V3" width="450" />
 
 # Case Components
 ***1x*** <ins> Echolingo V3 - Bottom.STEP<ins>
