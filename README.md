@@ -1,4 +1,7 @@
 # EchoLingo
+
+![EchoLingo V3](IMG_1560.jpeg)
+
 A completely **offline** translator running on a Raspberry Pi 5 using <ins>VOSK, Piper, and CTranslate2<ins>
 
 # Case Components
