@@ -14,6 +14,8 @@ A completely **offline** translator running on a Raspberry Pi 5 using <ins>VOSK,
 
 ***1x*** <ins> Echolingo V3 - Button Securer.STEP<ins>
 
+***2x*** <ins> Echolingo V3 - button.STEP<ins>
+
 ***2x*** <ins> Echolingo V3 - Switch Mount Half.STEP<ins>
 
 # Electrical Components
